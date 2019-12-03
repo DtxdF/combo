@@ -38,7 +38,7 @@ Creó el archivo a cifrar:
 cat > test.txt
 Hello Friend.
 ```
-Lo descifro:
+Lo cifro:
 
 ```bash
 ./combo.py -f test.txt -M encrypt
